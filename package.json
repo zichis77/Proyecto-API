@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Proyecto BBog",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eslint": "^7.7.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zichis77/Proyecto-API.git"
+  },
+  "author": "Zayra Saavedra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zichis77/Proyecto-API/issues"
+  },
+  "homepage": "https://github.com/zichis77/Proyecto-API#readme"
+}
